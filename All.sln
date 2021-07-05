@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.539
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Evolent.ContactManagement.PublicPortal", "Evolent.ContactManagement.PublicPortal\Evolent.ContactManagement.PublicPortal.csproj", "{2189F4C7-C2B4-4703-8A3A-CA487860F606}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Evolent.ContactManagement.ContactService", "Evolent.ContactManagement.ContactService\Evolent.ContactManagement.ContactService.csproj", "{D400980E-69EE-428C-AD2C-89DFF8BAEF7D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Evolent.ContactManagement.Core", "Evolent.ContactManagement.Core\Evolent.ContactManagement.Core.csproj", "{0C9FBF36-16FD-4016-B8B7-1062033927A9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Evolent.ContactManagement.Infrastructure", "Evolent.ContactManagement.Infrastructure\Evolent.ContactManagement.Infrastructure.csproj", "{24085B97-B3B7-44B5-B7D7-64E49DB503C6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2189F4C7-C2B4-4703-8A3A-CA487860F606}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2189F4C7-C2B4-4703-8A3A-CA487860F606}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2189F4C7-C2B4-4703-8A3A-CA487860F606}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2189F4C7-C2B4-4703-8A3A-CA487860F606}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D400980E-69EE-428C-AD2C-89DFF8BAEF7D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D400980E-69EE-428C-AD2C-89DFF8BAEF7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D400980E-69EE-428C-AD2C-89DFF8BAEF7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D400980E-69EE-428C-AD2C-89DFF8BAEF7D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C9FBF36-16FD-4016-B8B7-1062033927A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C9FBF36-16FD-4016-B8B7-1062033927A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C9FBF36-16FD-4016-B8B7-1062033927A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C9FBF36-16FD-4016-B8B7-1062033927A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24085B97-B3B7-44B5-B7D7-64E49DB503C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24085B97-B3B7-44B5-B7D7-64E49DB503C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24085B97-B3B7-44B5-B7D7-64E49DB503C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24085B97-B3B7-44B5-B7D7-64E49DB503C6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {81C8EF98-697A-4112-8D41-F722F2CE081F}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 5
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://dev.azure.com/narenkedari
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = Evolent.ContactManagement.ContactService\\Evolent.ContactManagement.ContactService.csproj
+		SccProjectName1 = Evolent.ContactManagement.ContactService
+		SccLocalPath1 = Evolent.ContactManagement.ContactService
+		SccProjectUniqueName2 = Evolent.ContactManagement.Core\\Evolent.ContactManagement.Core.csproj
+		SccProjectName2 = Evolent.ContactManagement.Core
+		SccLocalPath2 = Evolent.ContactManagement.Core
+		SccProjectUniqueName3 = Evolent.ContactManagement.Infrastructure\\Evolent.ContactManagement.Infrastructure.csproj
+		SccProjectName3 = Evolent.ContactManagement.Infrastructure
+		SccLocalPath3 = Evolent.ContactManagement.Infrastructure
+		SccProjectUniqueName4 = Evolent.ContactManagement.PublicPortal\\Evolent.ContactManagement.PublicPortal.csproj
+		SccProjectName4 = Evolent.ContactManagement.PublicPortal
+		SccLocalPath4 = Evolent.ContactManagement.PublicPortal
+	EndGlobalSection
+EndGlobal
